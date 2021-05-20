@@ -1,0 +1,2 @@
+C:\Users\Elbraka\source\repos\QtWidgetsApplication6\x64\Debug\QtWidgetsApplication6.exe
+C:\Users\Elbraka\source\repos\QtWidgetsApplication6\x64\Debug\QtWidgetsApplication6.pdb
